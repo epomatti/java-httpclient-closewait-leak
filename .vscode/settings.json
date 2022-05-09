@@ -1,5 +1,5 @@
 {
   // "java.jdt.ls.java.home": "/opt/java/jdk-11.0.15+10",
   "java.jdt.ls.java.home": "/opt/java/jdk-11.0.5",
-  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.configuration.updateBuildConfiguration": "automatic",
 }
