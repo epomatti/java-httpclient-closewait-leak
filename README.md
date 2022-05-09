@@ -19,14 +19,14 @@ mvn install
 mvn compile
 ```
 
-Set the `JAVA_HOME` environment according to the tes desired (must be set on both Bash sessions)
+Set the `JAVA_HOME` environment according to the desired test. Must be set on both client and server bash sessions.
 
 
 ```sh
-# Bug should happen
+# Issue should happen
 export JAVA_HOME='/opt/java/jdk-11.0.5'
 
-# Bug should NOT happen
+# Issue should NOT happen
 export JAVA_HOME='/opt/java/jdk-11.0.15+10'
 ```
 
