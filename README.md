@@ -1,6 +1,6 @@
 # Java HttpClient CLOSE_WAIT Troubleshoot
 
-Sample project to track [JDK-8221395](https://bugs.openjdk.java.net/browse/JDK-8221395) bug fix.
+Sample project to track [JDK-8221395](https://bugs.openjdk.java.net/browse/JDK-8221395) and [JDK-8236596](https://bugs.openjdk.java.net/browse/JDK-8236596) bug fixes.
 
 Download the desired distributions from the [archive](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) to test the scenarios. Reference:
 
